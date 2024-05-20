@@ -1427,6 +1427,7 @@ IIIIIIIIIIMMMMMMMM               MMMMMMMM        GGGGGG   GGGGEEEEEEEEEEEEEEEEEE
 
 
 
+    """ 打开序列"""
 
     def PB_ImgSeqOpen_clicked(self):
         self.start = time.perf_counter()
